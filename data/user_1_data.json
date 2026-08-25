@@ -1,0 +1,314 @@
+{
+    "profile": {
+        "user_id": 1,
+        "age": 25,
+        "sex": "M",
+        "weight_kg": 72.2,
+        "fitness_level": "beginner",
+        "resting_hr": 81,
+        "max_hr": 195,
+        "goal": "weight_loss"
+    },
+    "history": [
+        {
+            "date": "2026-01-01",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-02",
+            "completed": true,
+            "duration_min": 26,
+            "avg_hr": 145,
+            "reps_completed": 95,
+            "form_errors": 0,
+            "calories_burned": 289.1,
+            "met": 8.8
+        },
+        {
+            "date": "2026-01-03",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-04",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-05",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-06",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-07",
+            "completed": true,
+            "duration_min": 43,
+            "avg_hr": 150,
+            "reps_completed": 118,
+            "form_errors": 3,
+            "calories_burned": 456.4,
+            "met": 8.4
+        },
+        {
+            "date": "2026-01-08",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-09",
+            "completed": true,
+            "duration_min": 26,
+            "avg_hr": 146,
+            "reps_completed": 92,
+            "form_errors": 5,
+            "calories_burned": 167.5,
+            "met": 5.1
+        },
+        {
+            "date": "2026-01-10",
+            "completed": true,
+            "duration_min": 40,
+            "avg_hr": 154,
+            "reps_completed": 114,
+            "form_errors": 0,
+            "calories_burned": 278.0,
+            "met": 5.5
+        },
+        {
+            "date": "2026-01-11",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-12",
+            "completed": true,
+            "duration_min": 34,
+            "avg_hr": 157,
+            "reps_completed": 94,
+            "form_errors": 4,
+            "calories_burned": 317.9,
+            "met": 7.4
+        },
+        {
+            "date": "2026-01-13",
+            "completed": true,
+            "duration_min": 30,
+            "avg_hr": 136,
+            "reps_completed": 118,
+            "form_errors": 4,
+            "calories_burned": 208.5,
+            "met": 5.5
+        },
+        {
+            "date": "2026-01-14",
+            "completed": true,
+            "duration_min": 57,
+            "avg_hr": 151,
+            "reps_completed": 90,
+            "form_errors": 2,
+            "calories_burned": 612.2,
+            "met": 8.5
+        },
+        {
+            "date": "2026-01-15",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-16",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-17",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-18",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-19",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-20",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-21",
+            "completed": true,
+            "duration_min": 44,
+            "avg_hr": 136,
+            "reps_completed": 97,
+            "form_errors": 0,
+            "calories_burned": 278.0,
+            "met": 5.0
+        },
+        {
+            "date": "2026-01-22",
+            "completed": true,
+            "duration_min": 29,
+            "avg_hr": 154,
+            "reps_completed": 120,
+            "form_errors": 1,
+            "calories_burned": 212.5,
+            "met": 5.8
+        },
+        {
+            "date": "2026-01-23",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-24",
+            "completed": true,
+            "duration_min": 47,
+            "avg_hr": 140,
+            "reps_completed": 82,
+            "form_errors": 1,
+            "calories_burned": 522.6,
+            "met": 8.8
+        },
+        {
+            "date": "2026-01-25",
+            "completed": true,
+            "duration_min": 43,
+            "avg_hr": 162,
+            "reps_completed": 110,
+            "form_errors": 0,
+            "calories_burned": 364.0,
+            "met": 6.7
+        },
+        {
+            "date": "2026-01-26",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-27",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-28",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-29",
+            "completed": false,
+            "duration_min": 0,
+            "avg_hr": 81,
+            "reps_completed": 0,
+            "form_errors": 0,
+            "calories_burned": 0,
+            "met": 1.0
+        },
+        {
+            "date": "2026-01-30",
+            "completed": true,
+            "duration_min": 35,
+            "avg_hr": 160,
+            "reps_completed": 106,
+            "form_errors": 1,
+            "calories_burned": 269.8,
+            "met": 6.1
+        }
+    ]
+}
